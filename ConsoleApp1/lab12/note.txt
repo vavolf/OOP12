@@ -1,0 +1,165 @@
+Имя сборки: lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имя сборки: lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичные методы:
+Int32 get_ProdID()
+System.String get_ProdName()
+Void set_ProdName(System.String)
+Int64 get_ProdUPC()
+Double get_ProdPrice()
+Void set_ProdPrice(Double)
+System.String get_ProdLife()
+Void set_ProdLife(System.String)
+Int32 get_ProdAmount()
+Void set_ProdAmount(Int32)
+Void SomeMethodDoing()
+Void Info()
+Double GetCostInDollars(Double ByRef)
+lab12.Product DefConstructor()
+Double GetSumPrice()
+Double ChangeDisc(Double ByRef)
+Boolean Equals(System.Object)
+System.String ToString()
+Int32 GetHashCode()
+System.Type GetType()
+Поля:
+Int32 prodID
+System.String prodName
+Int64 prodUPC
+Double prodPrice
+System.String prodLife
+Int32 prodAmount
+System.String storeName
+Int32 objAmount
+Double dollarExchangeRate
+Свойства:
+Int32 ProdID
+System.String ProdName
+Int64 ProdUPC
+Double ProdPrice
+System.String ProdLife
+Int32 ProdAmount
+Реализуемых интерфейсов не найдено
+Не найдено методов с соответствующим типом параметров
+Имя сборки: lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичные методы:
+Int32 get_ProdID()
+System.String get_ProdName()
+Void set_ProdName(System.String)
+Int64 get_ProdUPC()
+Double get_ProdPrice()
+Void set_ProdPrice(Double)
+System.String get_ProdLife()
+Void set_ProdLife(System.String)
+Int32 get_ProdAmount()
+Void set_ProdAmount(Int32)
+Void SomeMethodDoing()
+Void Info()
+Double GetCostInDollars(Double ByRef)
+lab12.Product DefConstructor()
+Double GetSumPrice()
+Double ChangeDisc(Double ByRef)
+Boolean Equals(System.Object)
+System.String ToString()
+Int32 GetHashCode()
+System.Type GetType()
+Поля:
+Int32 prodID
+System.String prodName
+Int64 prodUPC
+Double prodPrice
+System.String prodLife
+Int32 prodAmount
+System.String storeName
+Int32 objAmount
+Double dollarExchangeRate
+Свойства:
+Int32 ProdID
+System.String ProdName
+Int64 ProdUPC
+Double ProdPrice
+System.String ProdLife
+Int32 ProdAmount
+Реализуемых интерфейсов не найдено
+Не найдено методов с соответствующим типом параметров
+Имя сборки: lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичные методы:
+Int32 get_ProdID()
+System.String get_ProdName()
+Void set_ProdName(System.String)
+Int64 get_ProdUPC()
+Double get_ProdPrice()
+Void set_ProdPrice(Double)
+System.String get_ProdLife()
+Void set_ProdLife(System.String)
+Int32 get_ProdAmount()
+Void set_ProdAmount(Int32)
+Void SomeMethodDoing()
+Void Info()
+Double GetCostInDollars(Double ByRef)
+lab12.Product DefConstructor()
+Double GetSumPrice()
+Double ChangeDisc(Double ByRef)
+Boolean Equals(System.Object)
+System.String ToString()
+Int32 GetHashCode()
+System.Type GetType()
+Поля:
+Int32 prodID
+System.String prodName
+Int64 prodUPC
+Double prodPrice
+System.String prodLife
+Int32 prodAmount
+System.String storeName
+Int32 objAmount
+Double dollarExchangeRate
+Свойства:
+Int32 ProdID
+System.String ProdName
+Int64 ProdUPC
+Double ProdPrice
+System.String ProdLife
+Int32 ProdAmount
+Реализуемых интерфейсов не найдено
+Не найдено методов с соответствующим типом параметров
+Имя сборки: lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичные методы:
+Int32 get_ProdID()
+System.String get_ProdName()
+Void set_ProdName(System.String)
+Int64 get_ProdUPC()
+Double get_ProdPrice()
+Void set_ProdPrice(Double)
+System.String get_ProdLife()
+Void set_ProdLife(System.String)
+Int32 get_ProdAmount()
+Void set_ProdAmount(Int32)
+Void SomeMethodDoing()
+Void Info()
+Double GetCostInDollars(Double ByRef)
+lab12.Product DefConstructor()
+Double GetSumPrice()
+Double ChangeDisc(Double ByRef)
+Boolean Equals(System.Object)
+System.String ToString()
+Int32 GetHashCode()
+System.Type GetType()
+Поля:
+Int32 prodID
+System.String prodName
+Int64 prodUPC
+Double prodPrice
+System.String prodLife
+Int32 prodAmount
+System.String storeName
+Int32 objAmount
+Double dollarExchangeRate
+Свойства:
+Int32 ProdID
+System.String ProdName
+Int64 ProdUPC
+Double ProdPrice
+System.String ProdLife
+Int32 ProdAmount
+Реализуемых интерфейсов не найдено
+Не найдено методов с соответствующим типом параметров
